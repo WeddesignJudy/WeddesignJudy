@@ -1,4 +1,5 @@
-### Hi there 👋
+
+<h1 align=center>Hi 👋 I'm Judy and Welcome to my Github </h1>
 # 💫 About Me:
 👋 My full name is Nguyễn Thuý Ngân<br>🌱I have been studying at FPT University for 3 years.<br>📚 My major is Software Engineering<br>🌍I'm living now in Ho Chi Minh City, Viet Nam<br>🏊‍♀️I can swim in code  👩‍💻<br>🙃I'm really like watching movie (US, Japan, Korea, India,..)<br>🤟My quote is "Nothing Is Impossible"<br>⚡ Fun fact: I don't play League of Legends.👈
 
